@@ -8,7 +8,7 @@
            fetch=".."
            review="review.cyanogenmod.com" />
 
-  <remote  name="github"
+  <remote  name="glide"
            fetch="https://github.com/TeamGlide/" />     
 
   <remote  name="private"
